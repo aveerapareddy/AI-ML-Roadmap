@@ -17,13 +17,10 @@ Math for Machine Learning (1 Hour)
 📚 Resources (Python + Math)
 📺 Python (Free Videos)
 
-Python Full Course for Beginners – freeCodeCamp
-Python Basics in 1 Hour – Programming with Mosh
+Python Full Course for Beginners – freeCodeCamp - https://www.youtube.com/watch?v=rfscVS0vtbw
+Python Basics in 1 Hour – Programming with Mosh - https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
 📺 Math for ML (Free Videos)
 
-Essence of Linear Algebra – 3Blue1Brown (Vectors)
-Dot Product Explained – 3Blue1Brown
-🎓 Udemy (Paid)
-
-Automate the Boring Stuff with Python
-Mathematics for Machine Learning (Coursera)
+Essence of Linear Algebra – 3Blue1Brown (Vectors) - https://www.youtube.com/watch?v=fNk_zzaMoSs
+Dot Product Explained – 3Blue1Brown -  https://www.youtube.com/watch?v=LyGKycYT2v0
